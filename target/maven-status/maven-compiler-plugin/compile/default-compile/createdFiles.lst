@@ -1,0 +1,10 @@
+dto\userDto\UserDto.class
+dto\userDto\UserRootDto.class
+pageObjects\HeaderPage.class
+pageObjects\ProfilePage.class
+service\RestAssured.class
+pageObjects\PasswordRefreshPage.class
+service\UserService.class
+pageObjects\AuthPage.class
+pageObjects\RegistrationPage.class
+pageObjects\MainPage.class

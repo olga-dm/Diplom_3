@@ -1,0 +1,6 @@
+ProfileTest.class
+RegistrationTest.class
+AuthorizationTest.class
+MainPageTest.class
+BaseTest.class
+utils\UserDataGeneration.class
